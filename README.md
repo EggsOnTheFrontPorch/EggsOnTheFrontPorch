@@ -1,5 +1,11 @@
-- 👋 Hi, I’m @EggsOnTheFrontPorch
-- 👀 The purpose of this account is to provide a daily or more frequent update of how many eggs are available for sale on the front porch, so that people can check before driving out.
+👋 Hi, thanks for your interest in buying eggs on our front porch!
+
+There are currently 2 dozen eggs available for sale, as of 3:00 pm on September 14, 2022.
+
+This total will be updated at least daily.
+
+
+
 
 <!---
 EggsOnTheFrontPorch/EggsOnTheFrontPorch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
