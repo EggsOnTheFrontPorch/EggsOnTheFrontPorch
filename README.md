@@ -1,6 +1,6 @@
 👋 Hi, thanks for your interest in buying eggs on our front porch!
 
-There are currently 2 dozen eggs available for sale, as of 3:00 pm on September 14, 2022.
+There are currently 0 dozen eggs available for sale, as of 4pm on September 15, 2022.
 
 This total will be updated at least daily.
 
