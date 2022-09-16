@@ -4,7 +4,7 @@ There are 1 dozen eggs available for sale, as of 11:20am on September 16, 2022.
 
 This total will be updated at least daily.
 
-*** Egg production will be a little low until about December, when new and start playing. ***
+*** Egg production will be a little low until about December, when new hens start playing. ***
 
 
 
